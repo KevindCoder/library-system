@@ -156,7 +156,7 @@ Ky projekt është i licensuar nën licencën MIT.
 
 Për pyetje ose ndihmë, ju lutem kontaktoni:
 
-**Emri Juaj**  
+**Kevin Dule**  
 Email: kevindule1010@gmail.com  
 GitHub: KevindCoder
 
